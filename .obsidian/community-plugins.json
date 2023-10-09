@@ -1,8 +1,8 @@
 [
-  "obsidian-git",
   "obsidian-annotator",
   "calendar",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-git"
 ]

@@ -145,13 +145,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "bb893c67e9afa4ab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19d6d763595c81da",
+  "active": "60028736403a9365",
   "lastOpenFiles": [
     "Setup/Example file 1.md",
     "Setup",
