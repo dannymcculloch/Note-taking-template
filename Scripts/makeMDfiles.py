@@ -6,7 +6,10 @@ Script to create new markdown files for each paper. This is required for the Ann
 '''
 
 # Specify the directory where the vault is located. NOT the papers, but where both folders are
-root_directory = "C:/Users/Danny/Documents/Repos/Paper notes"
+# This can be done as a manual input each time
+# root_directory = input("Please input the FULL directory path, using / to seperate directories:")
+# Or, define it once if the script and folders won't move
+root_directory = "C:/Users/Danny/Documents/Repos/Note-taking template"
 
 # Specify the directory of the paper PDFs AFTER they've been reorganised by Mendelay
 paper_directory = f"{root_directory}/Papers"

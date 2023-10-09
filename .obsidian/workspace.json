@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50b6a8912e2a66ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup/Read this first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/Example file 1.md",
+                "file": "Setup/Read this first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/Example file 1.md",
+                "file": "Setup/Read this first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup/Example file 1.md"
+                "file": "Setup/Read this first.md"
               }
             }
           },
@@ -172,13 +184,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19d6d763595c81da",
+  "active": "50b6a8912e2a66ab",
   "lastOpenFiles": [
+    "Setup/Example file 1.md",
+    "Setup/Read this first.md",
+    "Papers/2023_McCulloch et al.pdf",
     "Scripts/makeMDfiles.py",
     "Scripts",
     "Papers",
     "Annotations",
-    "Setup/Example file 1.md",
     "Setup",
     "README.md",
     "LICENSE",
