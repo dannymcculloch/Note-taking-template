@@ -13,3 +13,4 @@ First, you'll want to use [Mendeley **desktop**](https://www.mendeley.com/guides
 ### A couple of things to note
 You can view the plugins in the settings. I've installed a couple to get you going, namely, "Annotate" and "Excalidraw". Annotate is used to read the PDFs and allow you to make targeted comments on them. You can also use hashtags to categorise notes. Excalidraw is useful for making quick drawings or snapshotting figures. Both have a good amount of documentation and guides online, so check that out if you want to learn more.
 
+Once you're done with this note, feel free to delete the Setup folder
