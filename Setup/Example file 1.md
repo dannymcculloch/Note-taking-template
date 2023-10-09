@@ -1,0 +1,1 @@
+You can link to other files with double square brackets, like [[Example file 2]]. Click on the link to create the file if it doesn't exist.

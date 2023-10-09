@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d702c0717ef83574",
+    "type": "split",
+    "children": [
+      {
+        "id": "15134ebb65435c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1ba1b6e95d5f745",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "60028736403a9365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup/Example file 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e8f3cc7b45968c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "830310d9cc51212a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19d6d763595c81da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2be2fa3f6cf56836",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef6727637a279d3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbd324420da5f7bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e6ca21863187900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ef90012e355215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setup/Example file 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad41ad19e268bedb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setup/Example file 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f446e2fcabc723f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c66a46f52e5ac329",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setup/Example file 1.md"
+              }
+            }
+          },
+          {
+            "id": "3d772edfaebc8d3c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "19d6d763595c81da",
+  "lastOpenFiles": [
+    "Setup/Example file 1.md",
+    "Setup",
+    "README.md",
+    "LICENSE",
+    "note-taking-template/LICENSE",
+    "note-taking-template/README.md",
+    "note-taking-template"
+  ]
+}
